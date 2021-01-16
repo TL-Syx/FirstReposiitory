@@ -1,2 +1,6 @@
 WorldHello！
+<<<<<<< HEAD
 dev1修改
+=======
+Dev
+>>>>>>> dev
